@@ -1,0 +1,87 @@
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#hat-nike {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 150px;
+
+}
+
+#visor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 355px 0 0 550px;
+}
+
+#сylinder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 291px 0 0 700px;
+}
+
+#hat {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 267px 0 0 84px;
+}
+
+#fur-hat {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 167px 0 0 280px;
+}
+
+#cap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 60px; 
+}
+
+#red-hat {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 660px;	
+}
+
+#ushanka {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 330px 0 0 370px;
+}
+
+#beret {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 140px 0 0 470px;
+}
+
+#garrison-cap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 350px 0 0 230px;
+}
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
